@@ -1,13 +1,6 @@
 Flake8 Extension to enforce trailing commas.
 ===========================================
 
-Usage
------
+Support for flake8 3.x
 
-If you are using flake8 it's as easy as:
-
-.. code:: shell
-
-    pip install flake8-commas
-
-Now you can avoid those annoying merge conflicts on dictionary and list diffs.
+Ref: https://github.com/trevorcreech/flake8-commas/pull/21
